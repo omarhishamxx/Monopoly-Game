@@ -1,0 +1,8 @@
+CollectCard
+ToJailCard
+MoveCard
+MoveToCard
+CollectEveryCard
+HouseRepairCard
+Card
+OutOfJailCard
